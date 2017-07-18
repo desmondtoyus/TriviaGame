@@ -1,0 +1,58 @@
+
+	#container, info
+	{
+		width: 50%;
+		margin: 12%;
+		text-align: center;
+		border: thin solid pink;
+	}
+	#question{
+	background-color: pink;
+	color: white;
+	font-size: 24px;
+	padding: 10px;
+
+	}
+	#option{
+	margin: 10px;
+
+
+	}
+	.optionClass{
+		padding: 10px;
+		width:70%;
+		margin-left:10%;
+		margin-top:5px;
+	}
+	.optionClass:hover{
+		background-color: pink;
+	}
+	#questionTimer
+	{
+	font-size: 22px;
+	
+	padding: 7px;
+
+	}
+	#start
+	{
+	width:50%;
+	height:50%;
+	padding:12%;
+	margin:12%;
+	}
+	button{
+	
+	width: 100px;
+	height: 80px;
+	padding: 10px;
+	background-color:pink;
+	border-radius:10px;
+	color:white;
+	font-size:24px;
+	
+	}
+	.final{
+		border: thin solid pink;
+		padding: 10px;
+	}
